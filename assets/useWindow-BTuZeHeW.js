@@ -1,0 +1,1 @@
+import{ab as u,Y as s}from"./index-CbtKV57c.js";function a(){const t=u();function e(o){t.add(o),s.emit("scrollToWindow",typeof o=="string"?o:o.name)}function r(o){t.remove(o)}function n(o){t.reload(o),setTimeout(()=>{t.reload(o)},0)}return{add:e,remove:r,reload:n}}export{a as u};
